@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UStockTrade</string>
+    <string name="oldpassword">Enter old password</string>
+    <string name="newpassword">Enter new password</string>
+    <string name="retypenewpassword">Retype new password</string>
+    <string name="back">back</string>
+</resources>
